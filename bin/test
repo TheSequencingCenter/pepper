@@ -1,0 +1,1 @@
+run_pepper_margin_deepvariant.py call_variant -b /home/ubuntu/projects/test/bam/test.bam -f /home/ubuntu/genomes/bacteria/clostridium_novyi.fasta -o /home/ubuntu/projects/test/vcf -t 1 --gpus all --ont_r10_q20
